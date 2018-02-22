@@ -1,3 +1,7 @@
+" Hans Yuan
+" Based on provided VIMRC from UCSD CSE 8B, taught by Rick Ord. 
+" Saved me lots of time and stress over the years
+
 set nocompatible
 source $VIMRUNTIME/vimrc_example.vim
 source $VIMRUNTIME/mswin.vim
